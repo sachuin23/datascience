@@ -1,0 +1,516 @@
+(1, 3) [{('a', 1, 0): 33}, {('a', 1, 3): 26}, {('a', 1, 4): 95}, {('b', 0, 3): 28}, {('b', 1, 3): 12}, {('b', 2, 3): 3}, {('b', 4, 3): 69}]
+found a 33
+found b 28
+looking for  ('a', 1, 0) ('b', 0, 3)
+Keys: ('a', 1, 0) ('b', 0, 3) product: 33 28 lprod : 924
+found b 12
+looking for  ('a', 1, 1) ('b', 1, 3)
+Keys: ('a', 1, 1) ('b', 1, 3) product: 0 12 lprod : 0
+found b 3
+looking for  ('a', 1, 2) ('b', 2, 3)
+Keys: ('a', 1, 2) ('b', 2, 3) product: 0 3 lprod : 0
+found a 26
+looking for  ('a', 1, 3) ('b', 3, 3)
+Keys: ('a', 1, 3) ('b', 3, 3) product: 26 0 lprod : 0
+found a 95
+found b 69
+looking for  ('a', 1, 4) ('b', 4, 3)
+Keys: ('a', 1, 4) ('b', 4, 3) product: 95 69 lprod : 6555
+(3, 0) [{('a', 3, 0): 24}, {('a', 3, 1): 79}, {('a', 3, 2): 24}, {('a', 3, 3): 47}, {('a', 3, 4): 18}, {('b', 0, 0): 63}, {('b', 1, 0): 59}, {('b', 2, 0): 30}, {('b', 3, 0): 77}]
+found a 24
+found b 63
+looking for  ('a', 3, 0) ('b', 0, 0)
+Keys: ('a', 3, 0) ('b', 0, 0) product: 24 63 lprod : 1512
+found a 79
+found b 59
+looking for  ('a', 3, 1) ('b', 1, 0)
+Keys: ('a', 3, 1) ('b', 1, 0) product: 79 59 lprod : 4661
+found a 24
+found b 30
+looking for  ('a', 3, 2) ('b', 2, 0)
+Keys: ('a', 3, 2) ('b', 2, 0) product: 24 30 lprod : 720
+found a 47
+found b 77
+looking for  ('a', 3, 3) ('b', 3, 0)
+Keys: ('a', 3, 3) ('b', 3, 0) product: 47 77 lprod : 3619
+found a 18
+looking for  ('a', 3, 4) ('b', 4, 0)
+Keys: ('a', 3, 4) ('b', 4, 0) product: 18 0 lprod : 0
+(2, 1) [{('a', 2, 0): 25}, {('a', 2, 1): 11}, {('a', 2, 3): 60}, {('a', 2, 4): 89}, {('b', 0, 1): 18}, {('b', 1, 1): 76}, {('b', 2, 1): 52}, {('b', 3, 1): 75}, {('b', 4, 1): 46}]
+found a 25
+found b 18
+looking for  ('a', 2, 0) ('b', 0, 1)
+Keys: ('a', 2, 0) ('b', 0, 1) product: 25 18 lprod : 450
+found a 11
+found b 76
+looking for  ('a', 2, 1) ('b', 1, 1)
+Keys: ('a', 2, 1) ('b', 1, 1) product: 11 76 lprod : 836
+found b 52
+looking for  ('a', 2, 2) ('b', 2, 1)
+Keys: ('a', 2, 2) ('b', 2, 1) product: 0 52 lprod : 0
+found a 60
+found b 75
+looking for  ('a', 2, 3) ('b', 3, 1)
+Keys: ('a', 2, 3) ('b', 3, 1) product: 60 75 lprod : 4500
+found a 89
+found b 46
+looking for  ('a', 2, 4) ('b', 4, 1)
+Keys: ('a', 2, 4) ('b', 4, 1) product: 89 46 lprod : 4094
+(0, 3) [{('a', 0, 0): 63}, {('a', 0, 1): 45}, {('a', 0, 2): 93}, {('a', 0, 3): 32}, {('a', 0, 4): 49}, {('b', 0, 3): 28}, {('b', 1, 3): 12}, {('b', 2, 3): 3}, {('b', 4, 3): 69}]
+found a 63
+found b 28
+looking for  ('a', 0, 0) ('b', 0, 3)
+Keys: ('a', 0, 0) ('b', 0, 3) product: 63 28 lprod : 1764
+found a 45
+found b 12
+looking for  ('a', 0, 1) ('b', 1, 3)
+Keys: ('a', 0, 1) ('b', 1, 3) product: 45 12 lprod : 540
+found a 93
+found b 3
+looking for  ('a', 0, 2) ('b', 2, 3)
+Keys: ('a', 0, 2) ('b', 2, 3) product: 93 3 lprod : 279
+found a 32
+looking for  ('a', 0, 3) ('b', 3, 3)
+Keys: ('a', 0, 3) ('b', 3, 3) product: 32 0 lprod : 0
+found a 49
+found b 69
+looking for  ('a', 0, 4) ('b', 4, 3)
+Keys: ('a', 0, 4) ('b', 4, 3) product: 49 69 lprod : 3381
+(4, 0) [{('a', 4, 0): 7}, {('a', 4, 1): 98}, {('a', 4, 2): 96}, {('a', 4, 3): 27}, {('b', 0, 0): 63}, {('b', 1, 0): 59}, {('b', 2, 0): 30}, {('b', 3, 0): 77}]
+found a 7
+found b 63
+looking for  ('a', 4, 0) ('b', 0, 0)
+Keys: ('a', 4, 0) ('b', 0, 0) product: 7 63 lprod : 441
+found a 98
+found b 59
+looking for  ('a', 4, 1) ('b', 1, 0)
+Keys: ('a', 4, 1) ('b', 1, 0) product: 98 59 lprod : 5782
+found a 96
+found b 30
+looking for  ('a', 4, 2) ('b', 2, 0)
+Keys: ('a', 4, 2) ('b', 2, 0) product: 96 30 lprod : 2880
+found a 27
+found b 77
+looking for  ('a', 4, 3) ('b', 3, 0)
+Keys: ('a', 4, 3) ('b', 3, 0) product: 27 77 lprod : 2079
+looking for  ('a', 4, 4) ('b', 4, 0)
+Keys: ('a', 4, 4) ('b', 4, 0) product: 0 0 lprod : 0
+(1, 2) [{('a', 1, 0): 33}, {('a', 1, 3): 26}, {('a', 1, 4): 95}, {('b', 0, 2): 89}, {('b', 1, 2): 34}, {('b', 2, 2): 49}, {('b', 3, 2): 85}, {('b', 4, 2): 33}]
+found a 33
+found b 89
+looking for  ('a', 1, 0) ('b', 0, 2)
+Keys: ('a', 1, 0) ('b', 0, 2) product: 33 89 lprod : 2937
+found b 34
+looking for  ('a', 1, 1) ('b', 1, 2)
+Keys: ('a', 1, 1) ('b', 1, 2) product: 0 34 lprod : 0
+found b 49
+looking for  ('a', 1, 2) ('b', 2, 2)
+Keys: ('a', 1, 2) ('b', 2, 2) product: 0 49 lprod : 0
+found a 26
+found b 85
+looking for  ('a', 1, 3) ('b', 3, 2)
+Keys: ('a', 1, 3) ('b', 3, 2) product: 26 85 lprod : 2210
+found a 95
+found b 33
+looking for  ('a', 1, 4) ('b', 4, 2)
+Keys: ('a', 1, 4) ('b', 4, 2) product: 95 33 lprod : 3135
+(3, 3) [{('a', 3, 0): 24}, {('a', 3, 1): 79}, {('a', 3, 2): 24}, {('a', 3, 3): 47}, {('a', 3, 4): 18}, {('b', 0, 3): 28}, {('b', 1, 3): 12}, {('b', 2, 3): 3}, {('b', 4, 3): 69}]
+found a 24
+found b 28
+looking for  ('a', 3, 0) ('b', 0, 3)
+Keys: ('a', 3, 0) ('b', 0, 3) product: 24 28 lprod : 672
+found a 79
+found b 12
+looking for  ('a', 3, 1) ('b', 1, 3)
+Keys: ('a', 3, 1) ('b', 1, 3) product: 79 12 lprod : 948
+found a 24
+found b 3
+looking for  ('a', 3, 2) ('b', 2, 3)
+Keys: ('a', 3, 2) ('b', 2, 3) product: 24 3 lprod : 72
+found a 47
+looking for  ('a', 3, 3) ('b', 3, 3)
+Keys: ('a', 3, 3) ('b', 3, 3) product: 47 0 lprod : 0
+found a 18
+found b 69
+looking for  ('a', 3, 4) ('b', 4, 3)
+Keys: ('a', 3, 4) ('b', 4, 3) product: 18 69 lprod : 1242
+(4, 4) [{('a', 4, 0): 7}, {('a', 4, 1): 98}, {('a', 4, 2): 96}, {('a', 4, 3): 27}, {('b', 0, 4): 39}, {('b', 1, 4): 6}, {('b', 2, 4): 95}, {('b', 4, 4): 88}]
+found a 7
+found b 39
+looking for  ('a', 4, 0) ('b', 0, 4)
+Keys: ('a', 4, 0) ('b', 0, 4) product: 7 39 lprod : 273
+found a 98
+found b 6
+looking for  ('a', 4, 1) ('b', 1, 4)
+Keys: ('a', 4, 1) ('b', 1, 4) product: 98 6 lprod : 588
+found a 96
+found b 95
+looking for  ('a', 4, 2) ('b', 2, 4)
+Keys: ('a', 4, 2) ('b', 2, 4) product: 96 95 lprod : 9120
+found a 27
+looking for  ('a', 4, 3) ('b', 3, 4)
+Keys: ('a', 4, 3) ('b', 3, 4) product: 27 0 lprod : 0
+found b 88
+looking for  ('a', 4, 4) ('b', 4, 4)
+Keys: ('a', 4, 4) ('b', 4, 4) product: 0 88 lprod : 0
+(2, 2) [{('a', 2, 0): 25}, {('a', 2, 1): 11}, {('a', 2, 3): 60}, {('a', 2, 4): 89}, {('b', 0, 2): 89}, {('b', 1, 2): 34}, {('b', 2, 2): 49}, {('b', 3, 2): 85}, {('b', 4, 2): 33}]
+found a 25
+found b 89
+looking for  ('a', 2, 0) ('b', 0, 2)
+Keys: ('a', 2, 0) ('b', 0, 2) product: 25 89 lprod : 2225
+found a 11
+found b 34
+looking for  ('a', 2, 1) ('b', 1, 2)
+Keys: ('a', 2, 1) ('b', 1, 2) product: 11 34 lprod : 374
+found b 49
+looking for  ('a', 2, 2) ('b', 2, 2)
+Keys: ('a', 2, 2) ('b', 2, 2) product: 0 49 lprod : 0
+found a 60
+found b 85
+looking for  ('a', 2, 3) ('b', 3, 2)
+Keys: ('a', 2, 3) ('b', 3, 2) product: 60 85 lprod : 5100
+found a 89
+found b 33
+looking for  ('a', 2, 4) ('b', 4, 2)
+Keys: ('a', 2, 4) ('b', 4, 2) product: 89 33 lprod : 2937
+(4, 1) [{('a', 4, 0): 7}, {('a', 4, 1): 98}, {('a', 4, 2): 96}, {('a', 4, 3): 27}, {('b', 0, 1): 18}, {('b', 1, 1): 76}, {('b', 2, 1): 52}, {('b', 3, 1): 75}, {('b', 4, 1): 46}]
+found a 7
+found b 18
+looking for  ('a', 4, 0) ('b', 0, 1)
+Keys: ('a', 4, 0) ('b', 0, 1) product: 7 18 lprod : 126
+found a 98
+found b 76
+looking for  ('a', 4, 1) ('b', 1, 1)
+Keys: ('a', 4, 1) ('b', 1, 1) product: 98 76 lprod : 7448
+found a 96
+found b 52
+looking for  ('a', 4, 2) ('b', 2, 1)
+Keys: ('a', 4, 2) ('b', 2, 1) product: 96 52 lprod : 4992
+found a 27
+found b 75
+looking for  ('a', 4, 3) ('b', 3, 1)
+Keys: ('a', 4, 3) ('b', 3, 1) product: 27 75 lprod : 2025
+found b 46
+looking for  ('a', 4, 4) ('b', 4, 1)
+Keys: ('a', 4, 4) ('b', 4, 1) product: 0 46 lprod : 0
+(1, 1) [{('a', 1, 0): 33}, {('a', 1, 3): 26}, {('a', 1, 4): 95}, {('b', 0, 1): 18}, {('b', 1, 1): 76}, {('b', 2, 1): 52}, {('b', 3, 1): 75}, {('b', 4, 1): 46}]
+found a 33
+found b 18
+looking for  ('a', 1, 0) ('b', 0, 1)
+Keys: ('a', 1, 0) ('b', 0, 1) product: 33 18 lprod : 594
+found b 76
+looking for  ('a', 1, 1) ('b', 1, 1)
+Keys: ('a', 1, 1) ('b', 1, 1) product: 0 76 lprod : 0
+found b 52
+looking for  ('a', 1, 2) ('b', 2, 1)
+Keys: ('a', 1, 2) ('b', 2, 1) product: 0 52 lprod : 0
+found a 26
+found b 75
+looking for  ('a', 1, 3) ('b', 3, 1)
+Keys: ('a', 1, 3) ('b', 3, 1) product: 26 75 lprod : 1950
+found a 95
+found b 46
+looking for  ('a', 1, 4) ('b', 4, 1)
+Keys: ('a', 1, 4) ('b', 4, 1) product: 95 46 lprod : 4370
+(3, 2) [{('a', 3, 0): 24}, {('a', 3, 1): 79}, {('a', 3, 2): 24}, {('a', 3, 3): 47}, {('a', 3, 4): 18}, {('b', 0, 2): 89}, {('b', 1, 2): 34}, {('b', 2, 2): 49}, {('b', 3, 2): 85}, {('b', 4, 2): 33}]
+found a 24
+found b 89
+looking for  ('a', 3, 0) ('b', 0, 2)
+Keys: ('a', 3, 0) ('b', 0, 2) product: 24 89 lprod : 2136
+found a 79
+found b 34
+looking for  ('a', 3, 1) ('b', 1, 2)
+Keys: ('a', 3, 1) ('b', 1, 2) product: 79 34 lprod : 2686
+found a 24
+found b 49
+looking for  ('a', 3, 2) ('b', 2, 2)
+Keys: ('a', 3, 2) ('b', 2, 2) product: 24 49 lprod : 1176
+found a 47
+found b 85
+looking for  ('a', 3, 3) ('b', 3, 2)
+Keys: ('a', 3, 3) ('b', 3, 2) product: 47 85 lprod : 3995
+found a 18
+found b 33
+looking for  ('a', 3, 4) ('b', 4, 2)
+Keys: ('a', 3, 4) ('b', 4, 2) product: 18 33 lprod : 594
+(0, 0) [{('a', 0, 0): 63}, {('a', 0, 1): 45}, {('a', 0, 2): 93}, {('a', 0, 3): 32}, {('a', 0, 4): 49}, {('b', 0, 0): 63}, {('b', 1, 0): 59}, {('b', 2, 0): 30}, {('b', 3, 0): 77}]
+found a 63
+found b 63
+looking for  ('a', 0, 0) ('b', 0, 0)
+Keys: ('a', 0, 0) ('b', 0, 0) product: 63 63 lprod : 3969
+found a 45
+found b 59
+looking for  ('a', 0, 1) ('b', 1, 0)
+Keys: ('a', 0, 1) ('b', 1, 0) product: 45 59 lprod : 2655
+found a 93
+found b 30
+looking for  ('a', 0, 2) ('b', 2, 0)
+Keys: ('a', 0, 2) ('b', 2, 0) product: 93 30 lprod : 2790
+found a 32
+found b 77
+looking for  ('a', 0, 3) ('b', 3, 0)
+Keys: ('a', 0, 3) ('b', 3, 0) product: 32 77 lprod : 2464
+found a 49
+looking for  ('a', 0, 4) ('b', 4, 0)
+Keys: ('a', 0, 4) ('b', 4, 0) product: 49 0 lprod : 0
+(0, 4) [{('a', 0, 0): 63}, {('a', 0, 1): 45}, {('a', 0, 2): 93}, {('a', 0, 3): 32}, {('a', 0, 4): 49}, {('b', 0, 4): 39}, {('b', 1, 4): 6}, {('b', 2, 4): 95}, {('b', 4, 4): 88}]
+found a 63
+found b 39
+looking for  ('a', 0, 0) ('b', 0, 4)
+Keys: ('a', 0, 0) ('b', 0, 4) product: 63 39 lprod : 2457
+found a 45
+found b 6
+looking for  ('a', 0, 1) ('b', 1, 4)
+Keys: ('a', 0, 1) ('b', 1, 4) product: 45 6 lprod : 270
+found a 93
+found b 95
+looking for  ('a', 0, 2) ('b', 2, 4)
+Keys: ('a', 0, 2) ('b', 2, 4) product: 93 95 lprod : 8835
+found a 32
+looking for  ('a', 0, 3) ('b', 3, 4)
+Keys: ('a', 0, 3) ('b', 3, 4) product: 32 0 lprod : 0
+found a 49
+found b 88
+looking for  ('a', 0, 4) ('b', 4, 4)
+Keys: ('a', 0, 4) ('b', 4, 4) product: 49 88 lprod : 4312
+(1, 4) [{('a', 1, 0): 33}, {('a', 1, 3): 26}, {('a', 1, 4): 95}, {('b', 0, 4): 39}, {('b', 1, 4): 6}, {('b', 2, 4): 95}, {('b', 4, 4): 88}]
+found a 33
+found b 39
+looking for  ('a', 1, 0) ('b', 0, 4)
+Keys: ('a', 1, 0) ('b', 0, 4) product: 33 39 lprod : 1287
+found b 6
+looking for  ('a', 1, 1) ('b', 1, 4)
+Keys: ('a', 1, 1) ('b', 1, 4) product: 0 6 lprod : 0
+found b 95
+looking for  ('a', 1, 2) ('b', 2, 4)
+Keys: ('a', 1, 2) ('b', 2, 4) product: 0 95 lprod : 0
+found a 26
+looking for  ('a', 1, 3) ('b', 3, 4)
+Keys: ('a', 1, 3) ('b', 3, 4) product: 26 0 lprod : 0
+found a 95
+found b 88
+looking for  ('a', 1, 4) ('b', 4, 4)
+Keys: ('a', 1, 4) ('b', 4, 4) product: 95 88 lprod : 8360
+(2, 3) [{('a', 2, 0): 25}, {('a', 2, 1): 11}, {('a', 2, 3): 60}, {('a', 2, 4): 89}, {('b', 0, 3): 28}, {('b', 1, 3): 12}, {('b', 2, 3): 3}, {('b', 4, 3): 69}]
+found a 25
+found b 28
+looking for  ('a', 2, 0) ('b', 0, 3)
+Keys: ('a', 2, 0) ('b', 0, 3) product: 25 28 lprod : 700
+found a 11
+found b 12
+looking for  ('a', 2, 1) ('b', 1, 3)
+Keys: ('a', 2, 1) ('b', 1, 3) product: 11 12 lprod : 132
+found b 3
+looking for  ('a', 2, 2) ('b', 2, 3)
+Keys: ('a', 2, 2) ('b', 2, 3) product: 0 3 lprod : 0
+found a 60
+looking for  ('a', 2, 3) ('b', 3, 3)
+Keys: ('a', 2, 3) ('b', 3, 3) product: 60 0 lprod : 0
+found a 89
+found b 69
+looking for  ('a', 2, 4) ('b', 4, 3)
+Keys: ('a', 2, 4) ('b', 4, 3) product: 89 69 lprod : 6141
+(4, 2) [{('a', 4, 0): 7}, {('a', 4, 1): 98}, {('a', 4, 2): 96}, {('a', 4, 3): 27}, {('b', 0, 2): 89}, {('b', 1, 2): 34}, {('b', 2, 2): 49}, {('b', 3, 2): 85}, {('b', 4, 2): 33}]
+found a 7
+found b 89
+looking for  ('a', 4, 0) ('b', 0, 2)
+Keys: ('a', 4, 0) ('b', 0, 2) product: 7 89 lprod : 623
+found a 98
+found b 34
+looking for  ('a', 4, 1) ('b', 1, 2)
+Keys: ('a', 4, 1) ('b', 1, 2) product: 98 34 lprod : 3332
+found a 96
+found b 49
+looking for  ('a', 4, 2) ('b', 2, 2)
+Keys: ('a', 4, 2) ('b', 2, 2) product: 96 49 lprod : 4704
+found a 27
+found b 85
+looking for  ('a', 4, 3) ('b', 3, 2)
+Keys: ('a', 4, 3) ('b', 3, 2) product: 27 85 lprod : 2295
+found b 33
+looking for  ('a', 4, 4) ('b', 4, 2)
+Keys: ('a', 4, 4) ('b', 4, 2) product: 0 33 lprod : 0
+(1, 0) [{('a', 1, 0): 33}, {('a', 1, 3): 26}, {('a', 1, 4): 95}, {('b', 0, 0): 63}, {('b', 1, 0): 59}, {('b', 2, 0): 30}, {('b', 3, 0): 77}]
+found a 33
+found b 63
+looking for  ('a', 1, 0) ('b', 0, 0)
+Keys: ('a', 1, 0) ('b', 0, 0) product: 33 63 lprod : 2079
+found b 59
+looking for  ('a', 1, 1) ('b', 1, 0)
+Keys: ('a', 1, 1) ('b', 1, 0) product: 0 59 lprod : 0
+found b 30
+looking for  ('a', 1, 2) ('b', 2, 0)
+Keys: ('a', 1, 2) ('b', 2, 0) product: 0 30 lprod : 0
+found a 26
+found b 77
+looking for  ('a', 1, 3) ('b', 3, 0)
+Keys: ('a', 1, 3) ('b', 3, 0) product: 26 77 lprod : 2002
+found a 95
+looking for  ('a', 1, 4) ('b', 4, 0)
+Keys: ('a', 1, 4) ('b', 4, 0) product: 95 0 lprod : 0
+(0, 1) [{('a', 0, 0): 63}, {('a', 0, 1): 45}, {('a', 0, 2): 93}, {('a', 0, 3): 32}, {('a', 0, 4): 49}, {('b', 0, 1): 18}, {('b', 1, 1): 76}, {('b', 2, 1): 52}, {('b', 3, 1): 75}, {('b', 4, 1): 46}]
+found a 63
+found b 18
+looking for  ('a', 0, 0) ('b', 0, 1)
+Keys: ('a', 0, 0) ('b', 0, 1) product: 63 18 lprod : 1134
+found a 45
+found b 76
+looking for  ('a', 0, 1) ('b', 1, 1)
+Keys: ('a', 0, 1) ('b', 1, 1) product: 45 76 lprod : 3420
+found a 93
+found b 52
+looking for  ('a', 0, 2) ('b', 2, 1)
+Keys: ('a', 0, 2) ('b', 2, 1) product: 93 52 lprod : 4836
+found a 32
+found b 75
+looking for  ('a', 0, 3) ('b', 3, 1)
+Keys: ('a', 0, 3) ('b', 3, 1) product: 32 75 lprod : 2400
+found a 49
+found b 46
+looking for  ('a', 0, 4) ('b', 4, 1)
+Keys: ('a', 0, 4) ('b', 4, 1) product: 49 46 lprod : 2254
+(3, 1) [{('a', 3, 0): 24}, {('a', 3, 1): 79}, {('a', 3, 2): 24}, {('a', 3, 3): 47}, {('a', 3, 4): 18}, {('b', 0, 1): 18}, {('b', 1, 1): 76}, {('b', 2, 1): 52}, {('b', 3, 1): 75}, {('b', 4, 1): 46}]
+found a 24
+found b 18
+looking for  ('a', 3, 0) ('b', 0, 1)
+Keys: ('a', 3, 0) ('b', 0, 1) product: 24 18 lprod : 432
+found a 79
+found b 76
+looking for  ('a', 3, 1) ('b', 1, 1)
+Keys: ('a', 3, 1) ('b', 1, 1) product: 79 76 lprod : 6004
+found a 24
+found b 52
+looking for  ('a', 3, 2) ('b', 2, 1)
+Keys: ('a', 3, 2) ('b', 2, 1) product: 24 52 lprod : 1248
+found a 47
+found b 75
+looking for  ('a', 3, 3) ('b', 3, 1)
+Keys: ('a', 3, 3) ('b', 3, 1) product: 47 75 lprod : 3525
+found a 18
+found b 46
+looking for  ('a', 3, 4) ('b', 4, 1)
+Keys: ('a', 3, 4) ('b', 4, 1) product: 18 46 lprod : 828
+(2, 4) [{('a', 2, 0): 25}, {('a', 2, 1): 11}, {('a', 2, 3): 60}, {('a', 2, 4): 89}, {('b', 0, 4): 39}, {('b', 1, 4): 6}, {('b', 2, 4): 95}, {('b', 4, 4): 88}]
+found a 25
+found b 39
+looking for  ('a', 2, 0) ('b', 0, 4)
+Keys: ('a', 2, 0) ('b', 0, 4) product: 25 39 lprod : 975
+found a 11
+found b 6
+looking for  ('a', 2, 1) ('b', 1, 4)
+Keys: ('a', 2, 1) ('b', 1, 4) product: 11 6 lprod : 66
+found b 95
+looking for  ('a', 2, 2) ('b', 2, 4)
+Keys: ('a', 2, 2) ('b', 2, 4) product: 0 95 lprod : 0
+found a 60
+looking for  ('a', 2, 3) ('b', 3, 4)
+Keys: ('a', 2, 3) ('b', 3, 4) product: 60 0 lprod : 0
+found a 89
+found b 88
+looking for  ('a', 2, 4) ('b', 4, 4)
+Keys: ('a', 2, 4) ('b', 4, 4) product: 89 88 lprod : 7832
+(2, 0) [{('a', 2, 0): 25}, {('a', 2, 1): 11}, {('a', 2, 3): 60}, {('a', 2, 4): 89}, {('b', 0, 0): 63}, {('b', 1, 0): 59}, {('b', 2, 0): 30}, {('b', 3, 0): 77}]
+found a 25
+found b 63
+looking for  ('a', 2, 0) ('b', 0, 0)
+Keys: ('a', 2, 0) ('b', 0, 0) product: 25 63 lprod : 1575
+found a 11
+found b 59
+looking for  ('a', 2, 1) ('b', 1, 0)
+Keys: ('a', 2, 1) ('b', 1, 0) product: 11 59 lprod : 649
+found b 30
+looking for  ('a', 2, 2) ('b', 2, 0)
+Keys: ('a', 2, 2) ('b', 2, 0) product: 0 30 lprod : 0
+found a 60
+found b 77
+looking for  ('a', 2, 3) ('b', 3, 0)
+Keys: ('a', 2, 3) ('b', 3, 0) product: 60 77 lprod : 4620
+found a 89
+looking for  ('a', 2, 4) ('b', 4, 0)
+Keys: ('a', 2, 4) ('b', 4, 0) product: 89 0 lprod : 0
+(4, 3) [{('a', 4, 0): 7}, {('a', 4, 1): 98}, {('a', 4, 2): 96}, {('a', 4, 3): 27}, {('b', 0, 3): 28}, {('b', 1, 3): 12}, {('b', 2, 3): 3}, {('b', 4, 3): 69}]
+found a 7
+found b 28
+looking for  ('a', 4, 0) ('b', 0, 3)
+Keys: ('a', 4, 0) ('b', 0, 3) product: 7 28 lprod : 196
+found a 98
+found b 12
+looking for  ('a', 4, 1) ('b', 1, 3)
+Keys: ('a', 4, 1) ('b', 1, 3) product: 98 12 lprod : 1176
+found a 96
+found b 3
+looking for  ('a', 4, 2) ('b', 2, 3)
+Keys: ('a', 4, 2) ('b', 2, 3) product: 96 3 lprod : 288
+found a 27
+looking for  ('a', 4, 3) ('b', 3, 3)
+Keys: ('a', 4, 3) ('b', 3, 3) product: 27 0 lprod : 0
+found b 69
+looking for  ('a', 4, 4) ('b', 4, 3)
+Keys: ('a', 4, 4) ('b', 4, 3) product: 0 69 lprod : 0
+(3, 4) [{('a', 3, 0): 24}, {('a', 3, 1): 79}, {('a', 3, 2): 24}, {('a', 3, 3): 47}, {('a', 3, 4): 18}, {('b', 0, 4): 39}, {('b', 1, 4): 6}, {('b', 2, 4): 95}, {('b', 4, 4): 88}]
+found a 24
+found b 39
+looking for  ('a', 3, 0) ('b', 0, 4)
+Keys: ('a', 3, 0) ('b', 0, 4) product: 24 39 lprod : 936
+found a 79
+found b 6
+looking for  ('a', 3, 1) ('b', 1, 4)
+Keys: ('a', 3, 1) ('b', 1, 4) product: 79 6 lprod : 474
+found a 24
+found b 95
+looking for  ('a', 3, 2) ('b', 2, 4)
+Keys: ('a', 3, 2) ('b', 2, 4) product: 24 95 lprod : 2280
+found a 47
+looking for  ('a', 3, 3) ('b', 3, 4)
+Keys: ('a', 3, 3) ('b', 3, 4) product: 47 0 lprod : 0
+found a 18
+found b 88
+looking for  ('a', 3, 4) ('b', 4, 4)
+Keys: ('a', 3, 4) ('b', 4, 4) product: 18 88 lprod : 1584
+(0, 2) [{('a', 0, 0): 63}, {('a', 0, 1): 45}, {('a', 0, 2): 93}, {('a', 0, 3): 32}, {('a', 0, 4): 49}, {('b', 0, 2): 89}, {('b', 1, 2): 34}, {('b', 2, 2): 49}, {('b', 3, 2): 85}, {('b', 4, 2): 33}]
+found a 63
+found b 89
+looking for  ('a', 0, 0) ('b', 0, 2)
+Keys: ('a', 0, 0) ('b', 0, 2) product: 63 89 lprod : 5607
+found a 45
+found b 34
+looking for  ('a', 0, 1) ('b', 1, 2)
+Keys: ('a', 0, 1) ('b', 1, 2) product: 45 34 lprod : 1530
+found a 93
+found b 49
+looking for  ('a', 0, 2) ('b', 2, 2)
+Keys: ('a', 0, 2) ('b', 2, 2) product: 93 49 lprod : 4557
+found a 32
+found b 85
+looking for  ('a', 0, 3) ('b', 3, 2)
+Keys: ('a', 0, 3) ('b', 3, 2) product: 32 85 lprod : 2720
+found a 49
+found b 33
+looking for  ('a', 0, 4) ('b', 4, 2)
+Keys: ('a', 0, 4) ('b', 4, 2) product: 49 33 lprod : 1617
+25
+[1, 3, 7479]
+[3, 0, 10512]
+[2, 1, 9880]
+[0, 3, 5964]
+[4, 0, 11182]
+[1, 2, 8282]
+[3, 3, 2934]
+[4, 4, 9981]
+[2, 2, 10636]
+[4, 1, 14591]
+[1, 1, 6914]
+[3, 2, 10587]
+[0, 0, 11878]
+[0, 4, 15874]
+[1, 4, 9647]
+[2, 3, 6973]
+[4, 2, 10954]
+[1, 0, 4081]
+[0, 1, 14044]
+[3, 1, 12037]
+[2, 4, 8873]
+[2, 0, 6844]
+[4, 3, 1660]
+[3, 4, 5274]
+[0, 2, 16031]
