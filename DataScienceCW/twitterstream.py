@@ -20,7 +20,7 @@ signature_method_hmac_sha1 = oauth.SignatureMethod_HMAC_SHA1()
 
 http_method = "GET"
 
-myFile="/home/pankaj/DataScience/DataScienceCW/twitterFeed3.txt"
+myFile=""
 
 
 http_handler  = urllib.HTTPHandler(debuglevel=_debug)
