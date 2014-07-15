@@ -4,11 +4,11 @@ import urllib2 as urllib
 import time as time
 
 # See Assignment 1 instructions or README for how to get these credentials
-access_token_key = "182686032-Am4QgPmc65ZK8n8zgm3ErKzsFIYmBTEY74HD3jlR"
-access_token_secret = "IkWE1aatA9RquIp59QXSIqr3y0hH3hBrAYiSDLekY"
+access_token_key = ""
+access_token_secret = ""
 
-consumer_key = "7oONcjYh75IaX0qyAIsMTA"
-consumer_secret = "gRthUa1CcKtxzOkkOvh7z6VU09qoMr2TZCUQkyuFU"
+consumer_key = ""
+consumer_secret = ""
 
 _debug = 0
 
